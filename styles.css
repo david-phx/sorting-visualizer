@@ -1,0 +1,24 @@
+#wrapper {
+    display: flex;
+    align-items: flex-end;
+    height: 55vh;
+    width: 100%;
+}
+
+.bar {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center; 
+    background-color: silver;
+    border: 1px solid black;
+    position: relative;
+    text-align: center;
+    margin: 1px;
+}
+
+div.bar div {
+    width: 100%;
+    position: absolute;
+    font-size: small;
+    bottom: -20px;
+}
