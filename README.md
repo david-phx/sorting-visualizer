@@ -1,5 +1,6 @@
 # SORTING ALGORITHMS VISUALIZER
 #### Video Demo: https://youtu.be/UC-ydtrg9s0
+#### Live Demo: https://david-phx.github.io/sorting-visualizer/
 #### Description:
 Ladies and gentlemen, I present you with my final project for CS50!
 
